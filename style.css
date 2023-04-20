@@ -328,6 +328,7 @@ header .fa-bars{
 
 .review .box-container{
     display: flex;
+    flex-wrap: wrap;
     gap: 1.5rem;
 }
 
